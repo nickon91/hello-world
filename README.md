@@ -1,6 +1,6 @@
 # hello-world
 
-skladiste za projekte
+skladiste.
 
 Hello my name is Nikola. Today is a beautifull day.
 
