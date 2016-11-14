@@ -2,6 +2,6 @@
 
 skladiste.
 
-Hello my name is Nikola. Today is a beautifull day.
+Hello my name is Nikola. Today is a beautiful day.
 
 Wazaaaaaaaaaa!!!
